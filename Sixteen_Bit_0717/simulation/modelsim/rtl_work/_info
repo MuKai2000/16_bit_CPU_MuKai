@@ -1,0 +1,526 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Code/Quartus/Sixteen_Bit/simulation/modelsim
+Ealu
+Z1 w1594916933
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8F:/Code/Quartus/Sixteen_Bit/ALU.vhd
+Z7 FF:/Code/Quartus/Sixteen_Bit/ALU.vhd
+l0
+L6
+Vm9JdgF0BoTjGM78Z[?fig2
+!s100 ]6KaDZ6f^UPSZ4=8HU]7U0
+Z8 OV;C;10.3d;59
+31
+Z9 !s110 1594953900
+!i10b 1
+Z10 !s108 1594953900.508000
+Z11 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/ALU.vhd|
+Z12 !s107 F:/Code/Quartus/Sixteen_Bit/ALU.vhd|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1
+Avhd_alu
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 m9JdgF0BoTjGM78Z[?fig2
+l17
+L15
+V8`ZmZXlXLH=0QP_[?T=GI1
+!s100 cVkfUhaOmJa87gLnUz^gQ3
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eclock
+Z15 w1594565017
+R2
+R3
+R4
+R5
+R0
+Z16 8F:/Code/Quartus/Sixteen_Bit/CLOCK.vhd
+Z17 FF:/Code/Quartus/Sixteen_Bit/CLOCK.vhd
+l0
+L6
+VNF;j2<]?KVPIT4TDAnK`b1
+!s100 KK^@e6]OZoJVXkO>BMi893
+R8
+31
+Z18 !s110 1594953902
+!i10b 1
+Z19 !s108 1594953902.326000
+Z20 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/CLOCK.vhd|
+Z21 !s107 F:/Code/Quartus/Sixteen_Bit/CLOCK.vhd|
+!i113 1
+R13
+R14
+Avhd
+R2
+R3
+R4
+R5
+DEx4 work 5 clock 0 22 NF;j2<]?KVPIT4TDAnK`b1
+l14
+L12
+VQ?;oRfVHd1gI2`cfKY>HL0
+!s100 <d3DKn;3WcQRJKWn^]XJF0
+R8
+31
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Ecounter
+Z22 w1594266180
+R2
+R3
+R4
+R5
+R0
+Z23 8F:/Code/Quartus/Sixteen_Bit/COUNTER.vhd
+Z24 FF:/Code/Quartus/Sixteen_Bit/COUNTER.vhd
+l0
+L6
+VS=?KkN=gJbXm3O6=o5L3d3
+!s100 7nENZbKc5b;GDhXZh<TeX1
+R8
+31
+Z25 !s110 1594953899
+!i10b 1
+Z26 !s108 1594953899.948000
+Z27 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/COUNTER.vhd|
+Z28 !s107 F:/Code/Quartus/Sixteen_Bit/COUNTER.vhd|
+!i113 1
+R13
+R14
+Avhd_counter
+R2
+R3
+R4
+R5
+DEx4 work 7 counter 0 22 S=?KkN=gJbXm3O6=o5L3d3
+l14
+L12
+VML_f=<9TKoU`?HoU6hG3I1
+!s100 `D>b<BDQNH<OOh][;m56b2
+R8
+31
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R13
+R14
+Ectrl
+Z29 w1594951600
+R2
+R3
+R4
+R5
+R0
+Z30 8F:/Code/Quartus/Sixteen_Bit/CTRL.vhd
+Z31 FF:/Code/Quartus/Sixteen_Bit/CTRL.vhd
+l0
+L6
+V>:[J8`3IR<5[R71Cah`9Y3
+!s100 Gn]RRMXR1alY6jIa=Go;d3
+R8
+31
+Z32 !s110 1594953901
+!i10b 1
+Z33 !s108 1594953901.688000
+Z34 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/CTRL.vhd|
+Z35 !s107 F:/Code/Quartus/Sixteen_Bit/CTRL.vhd|
+!i113 1
+R13
+R14
+Avhd_ctrl
+R2
+R3
+R4
+R5
+DEx4 work 4 ctrl 0 22 >:[J8`3IR<5[R71Cah`9Y3
+l25
+L21
+VSdj<0dfY62aB3]eZ]`o861
+!s100 mi0P7gOQk[ToRG9J885h10
+R8
+31
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R13
+R14
+Edbus
+Z36 w1594952994
+R2
+R3
+R4
+R5
+R0
+Z37 8F:/Code/Quartus/Sixteen_Bit/dbus.vhd
+Z38 FF:/Code/Quartus/Sixteen_Bit/dbus.vhd
+l0
+L5
+VHm<2_jk^>bMi@7NhPLHoY1
+!s100 lA2kzMJJlbCH>gd;^I8ZQ2
+R8
+31
+Z39 !s110 1594953904
+!i10b 1
+Z40 !s108 1594953904.766000
+Z41 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/dbus.vhd|
+Z42 !s107 F:/Code/Quartus/Sixteen_Bit/dbus.vhd|
+!i113 1
+R13
+R14
+Avhd
+R2
+R3
+R4
+R5
+DEx4 work 4 dbus 0 22 Hm<2_jk^>bMi@7NhPLHoY1
+l14
+L12
+VE8ICJTeh8om[PlW>gEV<82
+!s100 Qn0_JKRe^E4_^4TkbmoEJ2
+R8
+31
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Edreg
+Z43 w1594570924
+R2
+R3
+R4
+R5
+R0
+Z44 8F:/Code/Quartus/Sixteen_Bit/DREG.vhd
+Z45 FF:/Code/Quartus/Sixteen_Bit/DREG.vhd
+l0
+L6
+VC?ReKhX5G=ZN0;jo7FULl2
+!s100 KM=N:iZi[:>;gInWI2TlO3
+R8
+31
+R32
+!i10b 1
+Z46 !s108 1594953901.083000
+Z47 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/DREG.vhd|
+Z48 !s107 F:/Code/Quartus/Sixteen_Bit/DREG.vhd|
+!i113 1
+R13
+R14
+Avhd_dreg
+R2
+R3
+R4
+R5
+DEx4 work 4 dreg 0 22 C?ReKhX5G=ZN0;jo7FULl2
+l17
+L15
+VkAZ0QFNkTRVK^d?9ZJWni3
+!s100 V@S[Nh62];TQQLmG<KcCO1
+R8
+31
+R32
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R13
+R14
+Eireg
+Z49 w1594570642
+R2
+R3
+R4
+R5
+R0
+Z50 8F:/Code/Quartus/Sixteen_Bit/IREG.vhd
+Z51 FF:/Code/Quartus/Sixteen_Bit/IREG.vhd
+l0
+L6
+VIQ3Gil4_dEWaQALnaYaR22
+!s100 nDf8F[=SRj_Pl_FReYR_V3
+R8
+31
+R25
+!i10b 1
+Z52 !s108 1594953899.441000
+Z53 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/IREG.vhd|
+Z54 !s107 F:/Code/Quartus/Sixteen_Bit/IREG.vhd|
+!i113 1
+R13
+R14
+Avhd_ireg
+R2
+R3
+R4
+R5
+DEx4 work 4 ireg 0 22 IQ3Gil4_dEWaQALnaYaR22
+l17
+L15
+V5SV:]b<4=lB2ncLSinM951
+!s100 kfDRMY6dlZRRJjR8SgLIG3
+R8
+31
+R25
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R13
+R14
+Emareg
+Z55 w1594572361
+R2
+R3
+R4
+R5
+R0
+Z56 8F:/Code/Quartus/Sixteen_Bit/MAREG.vhd
+Z57 FF:/Code/Quartus/Sixteen_Bit/MAREG.vhd
+l0
+L6
+VTR=;TzF=cTXh8=eembU7[0
+!s100 1@>Dc^Z?Qd7>I=87jLlET3
+R8
+31
+Z58 !s110 1594953898
+!i10b 1
+Z59 !s108 1594953898.894000
+Z60 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/MAREG.vhd|
+Z61 !s107 F:/Code/Quartus/Sixteen_Bit/MAREG.vhd|
+!i113 1
+R13
+R14
+Avhd_marge
+R2
+R3
+R4
+R5
+DEx4 work 5 mareg 0 22 TR=;TzF=cTXh8=eembU7[0
+l16
+L14
+VeTbcC@KBE1N`M?[jA7Xno1
+!s100 VClaoOPn^;8HKWMAG:5Ee1
+R8
+31
+R58
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R13
+R14
+Ems_cpu
+Z62 w1594692805
+R2
+R3
+R4
+R5
+R0
+Z63 8F:/Code/Quartus/Sixteen_Bit/TB/ms_cpu.vhd
+Z64 FF:/Code/Quartus/Sixteen_Bit/TB/ms_cpu.vhd
+l0
+L6
+VjiDGoWjhWIF00534UJ[?o2
+!s100 Xfj:eIG9N@2;EMg<?<K[10
+R8
+31
+Z65 !s110 1594953905
+!i10b 1
+Z66 !s108 1594953905.341000
+Z67 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/TB/ms_cpu.vhd|
+Z68 !s107 F:/Code/Quartus/Sixteen_Bit/TB/ms_cpu.vhd|
+!i113 1
+R13
+R14
+Amodelsim
+R2
+R3
+R4
+R5
+DEx4 work 6 ms_cpu 0 22 jiDGoWjhWIF00534UJ[?o2
+l54
+L9
+Vno:F^;6J<^?T4?KeF`[i]3
+!s100 8n1hGI<`Bl5NjbD_9X9_W0
+R8
+31
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R13
+R14
+Epc
+Z69 w1594260690
+R2
+R3
+R4
+R5
+R0
+Z70 8F:/Code/Quartus/Sixteen_Bit/PC.vhd
+Z71 FF:/Code/Quartus/Sixteen_Bit/PC.vhd
+l0
+L6
+V]jBf148^]9gfikcLFf[XO0
+!s100 >E@iODE`2bG1g8^kh34el1
+R8
+31
+R18
+!i10b 1
+Z72 !s108 1594953902.957000
+Z73 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/PC.vhd|
+Z74 !s107 F:/Code/Quartus/Sixteen_Bit/PC.vhd|
+!i113 1
+R13
+R14
+Avhd_pc
+R2
+R3
+R4
+R5
+DEx4 work 2 pc 0 22 ]jBf148^]9gfikcLFf[XO0
+l16
+L14
+V]f2hk6Zzi8Mjjnz?5bol63
+!s100 S`KclefK2W=UDb@0HQeYd2
+R8
+31
+R18
+!i10b 1
+R72
+R73
+R74
+!i113 1
+R13
+R14
+Eram
+Z75 w1594569300
+R2
+R3
+R4
+R5
+R0
+Z76 8F:/Code/Quartus/Sixteen_Bit/RAM.vhd
+Z77 FF:/Code/Quartus/Sixteen_Bit/RAM.vhd
+l0
+L6
+VPV@B=Lmc;L7Nco9S[d3Te1
+!s100 01ahoIX6E?hema=PM?P6N3
+R8
+31
+Z78 !s110 1594953903
+!i10b 1
+Z79 !s108 1594953903.542000
+Z80 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/RAM.vhd|
+Z81 !s107 F:/Code/Quartus/Sixteen_Bit/RAM.vhd|
+!i113 1
+R13
+R14
+Avhd_ram
+R2
+R3
+R4
+R5
+DEx4 work 3 ram 0 22 PV@B=Lmc;L7Nco9S[d3Te1
+l18
+L16
+VETV9UQzJm?NhGP22d:]YQ3
+!s100 BdkJEg6W>_c0h>O8Gom462
+R8
+31
+R78
+!i10b 1
+R79
+R80
+R81
+!i113 1
+R13
+R14
+Esixteen_bit_cpu
+Z82 w1594953351
+R2
+R3
+R4
+R5
+R0
+Z83 8F:/Code/Quartus/Sixteen_Bit/Sixteen_Bit_CPU.vhd
+Z84 FF:/Code/Quartus/Sixteen_Bit/Sixteen_Bit_CPU.vhd
+l0
+L6
+V9b[:C4E2?M^k9[Q4DR5@73
+!s100 jONlj]G1^K?TIZHR_>NQE3
+R8
+31
+R39
+!i10b 1
+Z85 !s108 1594953904.138000
+Z86 !s90 -reportprogress|300|-93|-work|work|F:/Code/Quartus/Sixteen_Bit/Sixteen_Bit_CPU.vhd|
+Z87 !s107 F:/Code/Quartus/Sixteen_Bit/Sixteen_Bit_CPU.vhd|
+!i113 1
+R13
+R14
+Avhd
+R2
+R3
+R4
+R5
+DEx4 work 15 sixteen_bit_cpu 0 22 9b[:C4E2?M^k9[Q4DR5@73
+l139
+L30
+VnW]Iae[6bG3LQJ0oXPLPM1
+!s100 NZfKDkcfiNTPFXeW4L=j^0
+R8
+31
+R39
+!i10b 1
+R85
+R86
+R87
+!i113 1
+R13
+R14
