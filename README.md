@@ -1,2 +1,2 @@
 # 16_bit_CPU_MuKai
-东北大学数字逻辑与数字系统课程设计——16位模型机设计 2020.07.13
+Digital Logic and Digital Systems Course Project - 16-bit Model Computer Design(CS, NEU, 2020)
